@@ -42,9 +42,6 @@ create table convencionales._293161h(
     ALTER TABLE IF EXISTS convencionales._293161h_val OWNER to postgres;
 	
 	
-	
-	
-	
 -- PRESION ATMOSFERICA (1h) "187161h"
 create table convencionales._187161h(    
         _id	serial 	NOT NULL,
