@@ -1,1 +1,373 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T17:20:05.938Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="z_hjf4QRRqLVjzBnvhUj" version="20.0.4" type="github"><diagram id="1TgqSIU560a6drtrYgLI" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-07T17:45:22.815Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 OPR/79.0.4143.22 (Edition Campaign 75)" etag="_88tIK0C-Szf35C4lFCY" version="20.0.4" type="github">
+  <diagram id="1TgqSIU560a6drtrYgLI" name="Page-1">
+    <mxGraphModel dx="1720" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="node34" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;accesos  /* ACCESABILIDAD A LA ESTACIÓN */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; nombre  /* Vía pavimentada↲Vía lastrada↲Camino de verano↲Sendero↲Fluvial... */: varchar(100)&lt;br/&gt; descripcion  /* Vía cubierta con capa de asfalto, concreto o adoquín.  ↲Camin... */: varchar(500)&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_acceso  /* ID DE LA TABLA ACCESIBILIDAD A LA ESTACIÓN */: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="869" y="514" width="482" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="node31" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;cantones  /* CANTONES */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_provincia: varchar(4)&lt;br/&gt; id_distrito: varchar(6)&lt;br/&gt; nombre: varchar(200)&lt;br/&gt; estado: boolean&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_canton: varchar(4)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="2458" y="129" width="249" height="251" as="geometry" />
+        </mxCell>
+        <mxCell id="node2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;captores  /* CAPTOR↲(ELECTROMECANICA, MANUAL Y MIXTO) */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; nombre: varchar(50)&lt;br/&gt; descripcion: text&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_captor  /* id_captor */: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-297" y="514" width="452" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="node12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;captores_tipos  /* captor x tipo */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_captor  /* id_captor */: integer&lt;br/&gt; id_tipo_estacion  /* id_tipo_estacion */: integer&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_captor_tipo: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="73" y="947" width="333" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="node9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;categorias  /* CATEGORIA DE ESTACIONES↲(HIDROLOGIA, METEOROLIGA) */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; nombre: varchar(100)&lt;br/&gt; descripcion: text&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_categoria  /* id_categoria */: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="208" y="153" width="527" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="node6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;combinacion_parametros&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_parametro: integer&lt;br/&gt; id_unidad_medida: integer&lt;br/&gt; id_estadistico: varchar(1000)&lt;br/&gt; id_intervalo_tiempo_unidad: integer&lt;br/&gt; descripcion: varchar(1000)&lt;br/&gt; nemonico: varchar(1000)&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="434" y="2362" width="285" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="node23" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;coordenadas&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_sistema_coordenadas: integer&lt;br/&gt; id_punto_obs: integer&lt;br/&gt; fecha: timestamp&lt;br/&gt; presicion: varchar(8)&lt;br/&gt; estado: boolean&lt;br/&gt; norte: numeric(20,6)&lt;br/&gt; este: numeric(20,6)&lt;br/&gt; zona: integer&lt;br/&gt; banda: varchar(2)&lt;br/&gt; latitud: numeric(20,6)&lt;br/&gt; longitud: numeric(20,6)&lt;br/&gt; altutid: numeric(20,2)&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_coordenada: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1987" y="1332" width="259" height="443" as="geometry" />
+        </mxCell>
+        <mxCell id="node11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;cuencas  /* CUENCAS↲Comprende un espacio físico bañado por uno o varios rios */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; codigo: varchar(8)&lt;br/&gt; nombre: varchar(100)&lt;br/&gt; estado: boolean&lt;br/&gt; nivel: integer&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_cuenca  /* CODIGO DE LA CUENCA (COMNPRENDE 5 NIVELES FASTETER) */: varchar(5)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1371" y="442" width="551" height="251" as="geometry" />
+        </mxCell>
+        <mxCell id="node7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;direcciones_viento  /* DIRECCION DEL VIENTO */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; nombre  /* NOMBRE DE LA DIRECCION DEL VIENTO */: varchar(20)&lt;br/&gt; abreviacion  /* PRECION EN METROS */: varchar(5)&lt;br/&gt; grados  /* GRADOS DE INCLINACION */: integer&lt;br/&gt; estado  /* estado 1=activo, 2=ianctivo */: boolean&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_dir_viento  /* ID DIRECCION DEL VIENTO */: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="2363" y="1856" width="437" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="node16" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;distritos&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; nombre: varchar(600)&lt;br/&gt; observacion: varchar(100)&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_distrito: varchar(6)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="2592" y="-148" width="249" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="node5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;estaciones  /* ESTACIONES */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_estado_estacion  /* ID DE LA TABLA ESTADO DE ESTACION */: integer&lt;br/&gt; id_propietario  /* ID DE LA TABLA PROPIETARIO DE ESTACIÓN */: integer&lt;br/&gt; id_punto_obs: integer&lt;br/&gt; id_captor_tipo: integer&lt;br/&gt; fecha_ingreso: date&lt;br/&gt; fecha_levantamiento: date&lt;br/&gt; observacion: text&lt;br/&gt; informacion: text&lt;br/&gt; dataloger: text&lt;br/&gt; img_norte: bytea&lt;br/&gt; img_sur: bytea&lt;br/&gt; img_este: bytea&lt;br/&gt; img_oeste: bytea&lt;br/&gt; vista_interna: boolean&lt;br/&gt; vista_externa: boolean&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso1: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_estacion  /* ID DE LA TABLA ESTACIÓN */: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="827" y="1296" width="486" height="515" as="geometry" />
+        </mxCell>
+        <mxCell id="node22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;estadisticos&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; compuesto: varchar(1000)&lt;br/&gt; simbolo: varchar(1000)&lt;br/&gt; descripcion: varchar(1000)&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id: varchar(2)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="595" y="2085" width="249" height="227" as="geometry" />
+        </mxCell>
+        <mxCell id="node19" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;estados_estacion  /* ESTADOS DE ESTACION */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; nombre  /* ESTADO DE LA ESTACION (OPERATIVA/NO OPERATIVA) */: varchar(100)&lt;br/&gt; icono: varchar(500)&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_estado_estacion  /* ID DEL ESTADO DE LA ESTACION */: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="947" width="540" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="node8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;estados_validacion  /* ESTADOS DE ESTACION */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; nombre: varchar(100)&lt;br/&gt; icono: varchar(500)&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_estado_validacion  /* ID DEL ESTADO DE LA ESTACION */: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="229" y="2867" width="461" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="node29" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;fenomenos_naturales  /* FENOMENOS NATURALES */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; codigo  /* Código del fenómeno */: varchar(20)&lt;br/&gt; nombre  /* Nombre del fenómeno */: varchar(110)&lt;br/&gt; icono  /* IMAGEN */: bytea&lt;br/&gt; descripcion  /* Descripción del fenómeno */: text&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_fen_nat  /* ID DE LA TABLA FENOMENO */: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1899" y="1856" width="419" height="251" as="geometry" />
+        </mxCell>
+        <mxCell id="node17" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;genero_nubes  /* GENERO DE NUBOSIDADS NATURALES */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; codigo  /* Código del genero */: varchar(30)&lt;br/&gt; nombre  /* Nombre del genero */: varchar(250)&lt;br/&gt; icono  /* IMAGEN */: bytea&lt;br/&gt; descripcion  /* Descripción del genero */: text&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;br/&gt; tipo  /* tipo de nubes (1=bajas, 2=medias, 3=altas) */: integer&lt;br/&gt; cifrado: integer&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_genero_nube  /* ID DE LA TABLA GENERO DE NUBOSIDAD */: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1377" y="1856" width="477" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="node13" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;intervalo_tiempo&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; intervalo_tiempo: numeric&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="441" y="1856" width="249" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="node18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;intervalo_tiempo_unidad&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_intervalo_tiempo: integer&lt;br/&gt; id_unidad_medida_tiempo: varchar(5)&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="283" y="2097" width="292" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="node10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;metodos_acceso  /* MODOS DE ACCESO A LA ESTACIÓN */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; nombre  /* Automotor (automóvil, motocicleta, transporte público, etc.)↲... */: varchar(500)&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_metodo_acceso  /* ID DE LA TABLA MODOS DE ACCESO A LA ESTACIÓN */: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1942" y="526" width="496" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="node4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;parametros&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; nemonico: varchar(1000)&lt;br/&gt; descripcion: varchar(1000)&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;br/&gt; slug: varchar(100)&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="14" y="2085" width="249" height="227" as="geometry" />
+        </mxCell>
+        <mxCell id="node32" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;parroquias  /* PARROQUIAS */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_canton: varchar(4)&lt;br/&gt; nombre: varchar(200)&lt;br/&gt; estado: boolean&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_parroquia: varchar(6)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="2458" y="454" width="249" height="227" as="geometry" />
+        </mxCell>
+        <mxCell id="node30" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;profundidades_geotemp  /* TIPO DE GEO TEMPERATURAS */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; nombre: varchar(50)&lt;br/&gt; estado: boolean&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_profundidad_geotemp: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-297" y="2751" width="467" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="node28" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;propietarios  /* PROPIETARIOS DE LAS ESTACIÓNES */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; nombre  /* NOMBRE DEL PROPIETARIO */: varchar(100)&lt;br/&gt; representante  /* NOMBRE DEL RESPRESENTANTE DEL PROPIETARIO */: varchar(100)&lt;br/&gt; direccion  /* DIRECCIÓN DEL PROPIETARIO DE LA ESTACIÓN */: varchar(100)&lt;br/&gt; telefono  /* NÚMERO TELEFÓNICO DEL PROPIETARIO DE LA ESTACIÓN */: varchar(100)&lt;br/&gt; email  /* email */: varchar(100)&lt;br/&gt; informe  /* INFORME TÉCNICO */: varchar(100)&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_propietario  /* ID DE LA TABLA PROPIETARIO DE ESTACIÓN */: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="519" y="851" width="541" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="node15" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;provincias  /* PROVINCIAS */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_region: varchar(4)&lt;br/&gt; id_zona: varchar(4)&lt;br/&gt; nombre: varchar(100)&lt;br/&gt; estado: boolean&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_provincia: varchar(4)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="2323" y="-172" width="249" height="251" as="geometry" />
+        </mxCell>
+        <mxCell id="node25" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;puntos_observacion  /* ESTACIONES */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_cuenca  /* ID DE LA TABLA CUENCAS */: varchar(8)&lt;br/&gt; id_parroquia  /* ID DE LA TABLA PARROQUIA */: varchar(6)&lt;br/&gt; id_acceso  /* ID DE LA TABLA ACCESIBILIDAD A LA ESTACIÓN */: integer&lt;br/&gt; id_metodo_acceso  /* ID DE LA TABLA MODOS DE ACCESO A LA ESTACIÓN */: integer&lt;br/&gt; codigo  /* CODIGO DE LA ESTACION */: varchar(8)&lt;br/&gt; nombre  /* NOMBRE DE LA ESTACIÓN. */: varchar(100)&lt;br/&gt; direccion  /* DIRECCION DE LA ESTACION */: text&lt;br/&gt; area  /* AREA DE LA ESTACION - METROS CUADRADOS */: numeric&lt;br/&gt; observacion  /* OBSERVACIONES↲HECHO POR JAVIER VELASQUEZ */: text&lt;br/&gt; img_norte  /* FOTOGRAFIA DE LA ESTACION - NORTE */: bytea&lt;br/&gt; img_sur  /* FOTOGRAFIA DE LA ESTACION - SUR */: bytea&lt;br/&gt; img_este  /* FOTOGRAFIA DE LA ESTACION - ESTE */: bytea&lt;br/&gt; img_oeste  /* FOTOGRAFIA DE LA ESTACION - OESTE */: bytea&lt;br/&gt; estado  /* ESTADO DE LA ESTACION */: boolean&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_punto_obs  /* ID DE LA TABLA ESTACIÓN */: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1670" y="755" width="496" height="491" as="geometry" />
+        </mxCell>
+        <mxCell id="node0" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;regiones  /* REGION */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; nombre: varchar(100)&lt;br/&gt; estado: boolean&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_region: varchar(4)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="2189" y="-425" width="249" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="node20" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;sistema_coordenadas&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; nombre: varchar(50)&lt;br/&gt; presicion: integer&lt;br/&gt; instrumento: varchar(50)&lt;br/&gt; estado: boolean&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_sistema_coordenadas: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="2186" y="875" width="259" height="251" as="geometry" />
+        </mxCell>
+        <mxCell id="node26" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;tipo_dato&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; tipo_dato: varchar(50) []&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_tipo_dato: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1686" y="2751" width="195" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="node27" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;tipo_estaciones  /* TIPO DE ESTACIONES↲(AGROMETEREOLÓGICA, AERONÁUTICA) */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_categoria: integer&lt;br/&gt; nombre: varchar(50)&lt;br/&gt; observacion: text&lt;br/&gt; estado: boolean&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;br/&gt; codigo  /* IDENTIFICADOR DEL TIPO DE ESTACION (SIGLAS) */: varchar(8)&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_tipo_estacion: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="175" y="430" width="593" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="node14" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;tipo_geotemperaturas  /* TIPO DE GEO TEMPERATURAS */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; nombre: varchar(50)&lt;br/&gt; estado: boolean&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_tipo_geotemp: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="766" y="2738" width="450" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="node21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;tipos_calculo_evap  /* tipo de calculo de evaporacion */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; nombre: varchar(50)&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_tipo_calculo: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1216" y="2751" width="425" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="node33" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;unidad_medida_tiempo&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; nombre: varchar(50)&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id: varchar(5)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="172" y="1856" width="249" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="node1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;unidades_medida  /* UNIDAD MEDIDA PARÁMETRO */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; simbolo  /* Símbolo de la unidad de medida del parámetro hidrometeorológi... */: varchar(20)&lt;br/&gt; nombre  /* Nombre de la unidad de medida del parámetro hidrometeorológic... */: varchar(100)&lt;br/&gt; us_ingreso: varchar(50)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; codigo  /* Codigo de la unidad de medida */: integer&lt;br/&gt; us_modificacion: varchar(50)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_unidad_medida  /* id de la tabla, corresponde al código de la trama  de la unid... */: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="864" y="2085" width="468" height="227" as="geometry" />
+        </mxCell>
+        <mxCell id="node3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;vta_estaciones&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_punto_obs: integer&lt;br/&gt; codigo: varchar(8)&lt;br/&gt; punto_obs: varchar(100)&lt;br/&gt; id_estacion: integer&lt;br/&gt; captor: varchar(50)&lt;br/&gt; id_tipo_estacion: integer&lt;br/&gt; tipo_estacion: varchar(50)&lt;br/&gt; id_categoria: integer&lt;br/&gt; categoria: varchar(100)&lt;br/&gt; presicion: varchar(8)&lt;br/&gt; norte: numeric(20,6)&lt;br/&gt; este: numeric(20,6)&lt;br/&gt; zona1: integer&lt;br/&gt; banda: varchar(2)&lt;br/&gt; latitud: numeric(20,6)&lt;br/&gt; longitud: numeric(20,6)&lt;br/&gt; altutid: numeric(20,2)&lt;br/&gt; id_sistema_coordenadas: integer&lt;br/&gt; sistema_coordenadas: varchar(50)&lt;br/&gt; id_parroquia: varchar(6)&lt;br/&gt; parroquia: varchar(200)&lt;br/&gt; id_canton: varchar(4)&lt;br/&gt; canton: varchar(200)&lt;br/&gt; id_provincia: varchar(4)&lt;br/&gt; provincia: varchar(100)&lt;br/&gt; id_region: varchar(4)&lt;br/&gt; region: varchar(100)&lt;br/&gt; id_zona: varchar(4)&lt;br/&gt; zona: varchar(50)&lt;br/&gt; desc_zona: varchar(100)&lt;br/&gt; id_cuenca: varchar(5)&lt;br/&gt; cuenca: varchar(100)&lt;br/&gt; id_estado_estacion: integer&lt;br/&gt; estado_estacion: varchar(100)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-297" y="1856" width="266" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="node24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;zonas  /* ZONA */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; nombre: varchar(50)&lt;br/&gt; observacion: varchar(100)&lt;br/&gt; us_ingreso: varchar(20)&lt;br/&gt; fecha_ingreso: timestamp&lt;br/&gt; us_modificacion: varchar(20)&lt;br/&gt; fecha_modificacion: timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id_zona: varchar(4)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="2458" y="-425" width="249" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="edge14" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.750;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node31" target="node16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2644" y="104" />
+              <mxPoint x="2717" y="104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label86" value="id_distrito" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge14" vertex="1" connectable="0">
+          <mxGeometry x="2649" y="86" as="geometry" />
+        </mxCell>
+        <mxCell id="edge20" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.250;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node31" target="node15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2520" y="104" />
+              <mxPoint x="2448" y="104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label122" value="id_provincia" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge20" vertex="1" connectable="0">
+          <mxGeometry x="2444" y="108" as="geometry" />
+        </mxCell>
+        <mxCell id="edge18" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.250;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node12" target="node2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="157" y="735" />
+              <mxPoint x="-71" y="735" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label110" value="id_captor" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge18" vertex="1" connectable="0">
+          <mxGeometry x="13" y="717" as="geometry" />
+        </mxCell>
+        <mxCell id="edge1" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.750;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node12" target="node27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="323" y="735" />
+              <mxPoint x="472" y="735" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label8" value="id_tipo_estacion" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge1" vertex="1" connectable="0">
+          <mxGeometry x="372" y="711" as="geometry" />
+        </mxCell>
+        <mxCell id="edge15" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.625;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node6" target="node22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="612" y="2332" />
+              <mxPoint x="720" y="2332" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label92" value="id_estadistico:id" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge15" vertex="1" connectable="0">
+          <mxGeometry x="620" y="2313" as="geometry" />
+        </mxCell>
+        <mxCell id="edge19" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.375;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node6" target="node18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="541" y="2332" />
+              <mxPoint x="429" y="2332" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label116" value="id_intervalo_tiempo_unidad:id" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge19" vertex="1" connectable="0">
+          <mxGeometry x="337" y="2314" as="geometry" />
+        </mxCell>
+        <mxCell id="edge21" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.125;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node6" target="node4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="2342" />
+              <mxPoint x="139" y="2342" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label128" value="id_parametro:id" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge21" vertex="1" connectable="0">
+          <mxGeometry x="371" y="2343" as="geometry" />
+        </mxCell>
+        <mxCell id="edge2" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.875;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node6" target="node1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="683" y="2342" />
+              <mxPoint x="1098" y="2342" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label14" value="id_unidad_medida" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge2" vertex="1" connectable="0">
+          <mxGeometry x="834" y="2324" as="geometry" />
+        </mxCell>
+        <mxCell id="edge13" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.250;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node23" target="node25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2052" y="1276" />
+              <mxPoint x="1918" y="1276" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label80" value="id_punto_obs" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge13" vertex="1" connectable="0">
+          <mxGeometry x="1968" y="1267" as="geometry" />
+        </mxCell>
+        <mxCell id="edge22" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.750;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node23" target="node20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2181" y="1276" />
+              <mxPoint x="2315" y="1276" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label134" value="id_sistema_coordenadas" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge22" vertex="1" connectable="0">
+          <mxGeometry x="2165" y="1248" as="geometry" />
+        </mxCell>
+        <mxCell id="edge10" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.125;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node5" target="node12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="888" y="1276" />
+              <mxPoint x="240" y="1276" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label62" value="id_captor_tipo" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge10" vertex="1" connectable="0">
+          <mxGeometry x="519" y="1258" as="geometry" />
+        </mxCell>
+        <mxCell id="edge5" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.625;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node5" target="node19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1131" y="1266" />
+              <mxPoint x="1350" y="1266" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label32" value="id_estado_estacion" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge5" vertex="1" connectable="0">
+          <mxGeometry x="1233" y="1236" as="geometry" />
+        </mxCell>
+        <mxCell id="edge6" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.375;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node5" target="node28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1009" y="1266" />
+              <mxPoint x="790" y="1266" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label38" value="id_propietario" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge6" vertex="1" connectable="0">
+          <mxGeometry x="923" y="1272" as="geometry" />
+        </mxCell>
+        <mxCell id="edge0" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.875;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node5" target="node25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1252" y="1276" />
+              <mxPoint x="1918" y="1276" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label2" value="id_punto_obs" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge0" vertex="1" connectable="0">
+          <mxGeometry x="1543" y="1258" as="geometry" />
+        </mxCell>
+        <mxCell id="edge4" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.750;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node18" target="node13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="502" y="2060" />
+              <mxPoint x="566" y="2060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label26" value="id_intervalo_tiempo:id" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge4" vertex="1" connectable="0">
+          <mxGeometry x="430" y="2039" as="geometry" />
+        </mxCell>
+        <mxCell id="edge9" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.250;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node18" target="node33" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="356" y="2060" />
+              <mxPoint x="297" y="2060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label56" value="id_unidad_medida_tiempo:id" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge9" vertex="1" connectable="0">
+          <mxGeometry x="179" y="2051" as="geometry" />
+        </mxCell>
+        <mxCell id="edge3" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.500;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node32" target="node31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label20" value="id_canton" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge3" vertex="1" connectable="0">
+          <mxGeometry x="2519" y="408" as="geometry" />
+        </mxCell>
+        <mxCell id="edge8" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.250;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node15" target="node0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2385" y="-197" />
+              <mxPoint x="2313" y="-197" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label50" value="id_region" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge8" vertex="1" connectable="0">
+          <mxGeometry x="2326" y="-206" as="geometry" />
+        </mxCell>
+        <mxCell id="edge7" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.750;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node15" target="node24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2510" y="-197" />
+              <mxPoint x="2582" y="-197" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label44" value="id_zona" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge7" vertex="1" connectable="0">
+          <mxGeometry x="2533" y="-218" as="geometry" />
+        </mxCell>
+        <mxCell id="edge23" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.125;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node25" target="node34" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1732" y="735" />
+              <mxPoint x="1110" y="735" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label140" value="id_acceso" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge23" vertex="1" connectable="0">
+          <mxGeometry x="1390" y="717" as="geometry" />
+        </mxCell>
+        <mxCell id="edge16" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.375;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node25" target="node11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1856" y="725" />
+              <mxPoint x="1646" y="725" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label98" value="id_cuenca" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge16" vertex="1" connectable="0">
+          <mxGeometry x="1791" y="731" as="geometry" />
+        </mxCell>
+        <mxCell id="edge12" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.625;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node25" target="node10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1980" y="725" />
+              <mxPoint x="2190" y="725" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label74" value="id_metodo_acceso" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge12" vertex="1" connectable="0">
+          <mxGeometry x="2076" y="697" as="geometry" />
+        </mxCell>
+        <mxCell id="edge11" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.875;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node25" target="node32" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2104" y="735" />
+              <mxPoint x="2582" y="735" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label68" value="id_parroquia" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge11" vertex="1" connectable="0">
+          <mxGeometry x="2304" y="717" as="geometry" />
+        </mxCell>
+        <mxCell id="edge17" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.500;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node27" target="node9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label104" value="id_categoria" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge17" vertex="1" connectable="0">
+          <mxGeometry x="395" y="384" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
